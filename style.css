@@ -16,4 +16,7 @@ body{
 	
 	height:40px;
 	width:40px;
-	float:middle;
+}
+.panel-body{
+	padding-left:25%;
+}
